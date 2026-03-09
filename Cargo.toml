@@ -1,10 +1,10 @@
 [package]
 name = "bass-sys"
-description = "Bass bindings for Rust"
-version = "2.3.0"
-authors = ["KernelError <villainkernelerror@gmail.com>"]
+description = "Bass bindings for Rust(fork)"
+version = "2.3.1"
+authors = ["KernelError <villainkernelerror@gmail.com>,StudntGK"]
 edition = "2018"
-repository = "https://github.com/KernelErr0r/bass-sys"
+repository = "https://github.com/studentGK/bass-sys"
 license = "MIT"
 keywords = ["bass", "bindings", "audio"]
 categories = ["external-ffi-bindings", "multimedia::audio"]

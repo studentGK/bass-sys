@@ -1,7 +1,7 @@
 # bass-sys
 
 bass-sys provides raw FFI bindings for bass - a powerful audio library written in C
-
+ mod20260308
 ![Crates.io](https://img.shields.io/crates/v/bass_sys?style=flat-square)
 
 # Attention
